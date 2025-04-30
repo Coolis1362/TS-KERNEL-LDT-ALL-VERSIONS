@@ -1,0 +1,5 @@
+#!/bin/bash
+chmod -R 755 /usr/bin/root  
+echo "TS-KERNEL Linux Technology Has Been Installed, Have fun Making TS-DISTRO Distros On Linux!"
+chmod +x DEBIAN/postinst
+chmod 755 postinst
