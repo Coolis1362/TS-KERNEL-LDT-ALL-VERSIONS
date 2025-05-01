@@ -1,0 +1,7 @@
+#!/bin/bash
+echo "Removing TS-KERNEL LT..."
+rm -rf /usr/bin/root
+echo "TS-KERNEL LT removed successfully."
+chmod +x DEBIAN/postrm
+chmod 755 DEBIAN/postrm
+chmod 644 DEBIAN/postrm

@@ -1,0 +1,9 @@
+Package: ts-kernel-lt
+Version: 1.0.0.1
+Architecture: amd64
+Maintainer: Coolis1362
+Depends: python3
+Description: TS-KERNEL LT - Linux Technology
+ This version of TS-KERNEL is built for Linux,
+ bringing the same functionality as TS-KERNEL for Windows.
+ .rpm packages will be released later.
