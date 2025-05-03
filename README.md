@@ -1,7 +1,7 @@
 
-# TS-KERNEL LT (Linux Technology)
+# TS-KERNEL LDT (Linux Technology)
 
-TS-KERNEL LT (Linux Technology) brings the core functionality of TS-KERNEL, originally for Windows, to Linux systems. It is designed to help you build and manage TS-DISTRO distributions on Linux.
+TS-KERNEL LDT (Linux Debian Technology) brings the core functionality of TS-KERNEL, originally for Windows, to Linux systems. It is designed to help you build and manage TS-DISTRO distributions on Linux.
 
 ## Features
 
