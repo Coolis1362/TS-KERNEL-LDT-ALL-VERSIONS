@@ -63,5 +63,6 @@ sudo dpkg --remove ts-kernel-lt
 
 ## Notes
 
-- `.rpm` packages will be released later.
 - For more details, see the scripts and configuration files in the `BTS/my-package` directory.
+- Debian Package May Contain Bugs, Please Report Them.
+- This Was Made In Kali Linux 2025.1 WSL and Good With `Debian`, `Ubuntu`, `Debian-based distros`, and `Ubuntu-based distros`.
